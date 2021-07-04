@@ -1,7 +1,3 @@
-""" ChessGame
-    Author: Lakhvinder "Lucky" Jordan
-    Date: 5/17/2017
-"""
 
 import pygame
 import os
